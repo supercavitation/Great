@@ -3,6 +3,10 @@
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["SKY_ATTACK", "MOONBLAST"]
 }, {
+    "speciesId": "annihilape",
+    "fastMove": "COUNTER",
+    "chargedMoves": ["ICE_PUNCH", "SHADOW_BALL"]
+}, {
     "speciesId": "azumarill",
     "fastMove": "BUBBLE",
     "chargedMoves": ["ICE_BEAM", "PLAY_ROUGH"]
@@ -39,18 +43,46 @@
     "fastMove": "ICE_SHARD",
     "chargedMoves": ["ICY_WIND", "DRILL_RUN"]
 }, {
+    "speciesId": "empoleon",
+    "fastMove": "STEEL_WING",
+    "chargedMoves": ["HYDRO_CANNON", "DRILL_PECK"]
+}, {
+    "speciesId": "empoleon_shadow",
+    "fastMove": "STEEL_WING",
+    "chargedMoves": ["HYDRO_CANNON", "DRILL_PECK"]
+}, {
+    "speciesId": "feraligatr",
+    "fastMove": "SHADOW_CLAW",
+    "chargedMoves": ["HYDRO_CANNON", "ICE_BEAM"]
+}, {
+    "speciesId": "feraligatr_shadow",
+    "fastMove": "SHADOW_CLAW",
+    "chargedMoves": ["HYDRO_CANNON", "ICE_BEAM"]
+}, {
     "speciesId": "froslass",
     "fastMove": "POWDER_SNOW",
     "chargedMoves": ["AVALANCHE", "SHADOW_BALL"]
+}, {
+    "speciesId": "gallade",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["LEAF_BLADE", "CLOSE_COMBAT"]
+}, {
+    "speciesId": "gallade_shadow",
+    "fastMove": "PSYCHO_CUT",
+    "chargedMoves": ["LEAF_BLADE", "CLOSE_COMBAT"]
 }, {
     "speciesId": "gligar",
     "fastMove": "WING_ATTACK",
     "chargedMoves": ["AERIAL_ACE", "DIG"]
 }, {
-    "speciesId": "gligar",
+    "speciesId": "gligar_shadow",
     "fastMove": "WING_ATTACK",
     "chargedMoves": ["AERIAL_ACE", "DIG"],
     "shadowType": "shadow"
+}, {
+    "speciesId": "goodra",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["AQUA_TAIL", "POWER_WHIP"]
 }, {
     "speciesId": "jellicent",
     "fastMove": "HEX",
@@ -67,6 +99,10 @@
     "speciesId": "lickitung",
     "fastMove": "LICK",
     "chargedMoves": ["BODY_SLAM", "POWER_WHIP"]
+}, {
+    "speciesId": "machamp_shadow",
+    "fastMove": "COUNTER",
+    "chargedMoves": ["CROSS_CHOP", "ROCK_SLIDE"]
 }, {
     "speciesId": "mandibuzz",
     "fastMove": "SNARL",
@@ -169,8 +205,4 @@
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["MUD_BOMB", "SCALD"],
     "shadowType": "shadow"
-}, {
-    "speciesId": "annihilape",
-    "fastMove": "COUNTER",
-    "chargedMoves": ["ICE_PUNCH", "SHADOW_BALL"]
 }]
