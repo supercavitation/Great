@@ -712,6 +712,16 @@
     "weight": 1
   },
   {
+    "speciesId": "empoleon",
+    "fastMove": "STEEL_WING",
+    "weight": 1
+  },
+  {
+    "speciesId": "empoleon_shadow",
+    "fastMove": "STEEL_WING",
+    "weight": 1
+  },
+  {
     "speciesId": "entei",
     "fastMove": "FIRE_FANG",
     "chargedMoves": ["FLAME_CHARGE","SCORCHING_SANDS"],
@@ -750,12 +760,12 @@
   },
   {
     "speciesId": "feraligatr",
-    "fastMove": "WATERFALL",
+    "fastMove": "SHADOW_CLAW",
     "weight": 1
   },
   {
     "speciesId": "feraligatr_shadow",
-    "fastMove": "WATERFALL",
+    "fastMove": "SHADOW_CLAW",
     "weight": 1
   },
   {
@@ -783,6 +793,16 @@
   {
     "speciesId": "forretress_shadow",
     "chargedMoves": ["EARTHQUAKE","MIRROR_SHOT"],
+    "weight": 1
+  },
+  {
+    "speciesId": "gallade",
+    "fastMove": "PSYCHO_CUT",
+    "weight": 1
+  },
+  {
+    "speciesId": "gallade_shadow",
+    "fastMove": "PSYCHO_CUT",
     "weight": 1
   },
   {
@@ -908,6 +928,11 @@
     "speciesId": "golurk_shadow",
     "fastMove": "MUD_SLAP",
     "chargedMoves": ["SHADOW_PUNCH","EARTH_POWER"],
+    "weight": 1
+  },
+  {
+    "speciesId": "goodra",
+    "chargedMoves": ["AQUA_TAIL","POWER_WHIP"],
     "weight": 1
   },
   {
@@ -1638,6 +1663,16 @@
     "weight": 1
   },
   {
+    "speciesId": "sawk",
+    "chargedMoves": ["BODY_SLAM", "BRICK_BREAK"],
+    "weight": 1
+  },
+  {
+    "speciesId": "sawk_shadow",
+    "chargedMoves": ["BODY_SLAM", "BRICK_BREAK"],
+    "weight": 1
+  },
+  {
     "speciesId": "sceptile",
     "chargedMoves": ["LEAF_BLADE","EARTHQUAKE"],
     "weight": 1
@@ -1694,7 +1729,7 @@
   },
   {
     "speciesId": "shaymin_land",
-    "fastMove": "ZEN_HEADBUTT",
+    "fastMove": "MAGICAL_LEAF",
     "chargedMoves": ["GRASS_KNOT","SEED_FLARE"],
     "weight": 1
   },
